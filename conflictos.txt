@@ -2,3 +2,5 @@ Se produjo un conflicto en el archivo personaB_1
 porque ambas participantes modificaron la misma línea.
 El conflicto se resolvió unificando ambos contenidos
 y subiendo la versión final al repositorio.
+
+holiiiiiii :)
