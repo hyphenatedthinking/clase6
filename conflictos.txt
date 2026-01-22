@@ -4,3 +4,7 @@ El conflicto se resolvió unificando ambos contenidos
 y subiendo la versión final al repositorio.
 
 holiiiiiii :)
+<<<<<<< HEAD
+=======
+Saludos desde berlin!
+>>>>>>> 8fc5368 (Cambios en la nueva rama)
