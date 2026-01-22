@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Este es el archivo personaB_1 Línea editada por Persona B
-Línea agregada por Persona B
-=======
 
-Hola :))) como estas?? 
->>>>>>> 11913e7 (persona A modificando archivopersonaB_1.txt)
+Línea agregada por Persona B y Hola :))) como estas?? (Persona A)
+
