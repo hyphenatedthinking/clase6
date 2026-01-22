@@ -1,1 +1,2 @@
 Este es el archivo personaB_1
+Línea agregada por Persona B
