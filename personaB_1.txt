@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Este es el archivo personaB_1
+Este es el archivo personaB_1 Línea editada por Persona B
 Línea agregada por Persona B
 =======
 
